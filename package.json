@@ -1,0 +1,24 @@
+{
+  "name": "cursonodejs",
+  "version": "1.0.0",
+  "description": "Practica de nodejs en Curso",
+  "main": "./CommonJS/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinorPorras/CursoNodeJS.git"
+  },
+  "keywords": [
+    "aprendizaje",
+    "node",
+    "nodejs"
+  ],
+  "author": "Minor Josué Porras Varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinorPorras/CursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/MinorPorras/CursoNodeJS#readme"
+}
