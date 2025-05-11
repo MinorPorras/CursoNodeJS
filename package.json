@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/MinorPorras/CursoNodeJS/issues"
   },
-  "homepage": "https://github.com/MinorPorras/CursoNodeJS#readme"
+  "homepage": "https://github.com/MinorPorras/CursoNodeJS#readme",
+  "dependencies": {
+    "cursonodejs": "file:",
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  }
 }
