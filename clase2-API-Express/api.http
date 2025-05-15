@@ -1,0 +1,26 @@
+### GET Inicio
+GET http://localhost:3000/
+
+### GET Pokemon by name
+GET http://localhost:3000/pokemon/marowak
+
+### POST new Pokemon
+POST http://localhost:3000/pokemon
+Content-Type: application/json
+
+{
+  "name": "Pikachu",
+  "type": "Electric",
+    "level": 5,
+    "abilities": [
+        {
+        "name": "Static",
+        "description": "May cause paralysis if the opponent makes contact."
+        },
+        {
+        "name": "Lightning Rod",
+        "description": "Draws in all Electric-type moves to increase Special Attack."
+        }
+    ]
+}
+

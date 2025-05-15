@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "clase2-api-express": "file:",
+    "express": "5.1.0"
+  },
+  "name": "clase2-api-express",
+  "version": "1.0.0",
+  "description": "Conjunto de formas de crear una API ya sea del método nativo con un servidor http de node o por medio de express",
+  "main": "2-pokeAPI.js",
+  "scripts": {
+    "dev:1": "nodemon 1-http.js",
+    "dev:2": "nodemon 2-pokeAPI.js",
+    "dev:3": "node --watch 3-express.js"
+  },
+  "keywords": [
+    "nodeJS",
+    "async",
+    "http",
+    "http",
+    "server",
+    "pokemon",
+    "express"
+  ],
+  "author": "Minor Porras Varela",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "3.1.10"
+  }
+}
