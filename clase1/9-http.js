@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
 });
 
 findAvailablePort(desiredPort).then((port) => {
-  server.listen(0, () => {
+  server.listen(port, () => {
     console.log(`Servidor escuchando el puerto ${port}`);
   });
 });
