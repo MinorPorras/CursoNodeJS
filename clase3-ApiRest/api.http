@@ -1,0 +1,12 @@
+### Petición GET
+GET http://localhost:3000/
+
+### Recuperar todas las películas
+GET http://localhost:3000/movies
+
+### Recuperar una película por id
+GET http://localhost:3000/movies/a1b2c3d4-e5f6-7890-1234-567890abcdef
+
+
+### Recuperar una película por género
+GET http://localhost:3000/movies?genre=Crime
