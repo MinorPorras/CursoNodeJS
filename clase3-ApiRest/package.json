@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "clase3-apirest": "file:",
-    "express": "5.1.0"
+    "express": "5.1.0",
+    "zod": "3.24.4"
   }
 }
