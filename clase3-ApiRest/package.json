@@ -1,0 +1,23 @@
+{
+  "name": "clase3-apirest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev:1": "node --watch ./app.js"
+  },
+  "keywords": [
+    "API",
+    "rest",
+    "node.js",
+    "express",
+    "commonJS"
+  ],
+  "author": "Minor Porras Varela",
+  "license": "ISC",
+  "dependencies": {
+    "clase3-apirest": "file:",
+    "express": "5.1.0",
+    "zod": "3.24.4"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "duration": 175,
+      "poster": "https://m.media-amazon.com/images/I/31bS2C2zSCL._AC_UF890,1000_QL80_.jpg",
+      "genre": ["Crime", "Drama"],
+      "rate": 9.2
+    },
+    {
+      "id": "b2c3d4e5-f678-9012-3456-7890abcdef12",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "duration": 152,
+      "poster": "https://m.media-amazon.com/images/I/81g8vPz-xHL._AC_UF890,1000_QL80_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "rate": 9.0
+    },
+    {
+      "id": "c3d4e5f6-7890-1234-5678-90abcdef1234",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "duration": 154,
+      "poster": "https://m.media-amazon.com/images/I/71c05aFzSEL._AC_UF890,1000_QL80_.jpg",
+      "genre": ["Crime", "Drama"],
+      "rate": 8.9
+    },
+    {
+      "id": "d4e5f678-9012-3456-7890-abcdef123456",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "director": "Peter Jackson",
+      "duration": 201,
+      "poster": "https://m.media-amazon.com/images/I/81EBp0vOZZL._AC_UF890,1000_QL80_.jpg",
+      "genre": ["Action", "Adventure", "Drama", "Fantasy"],
+      "rate": 8.9
+    }
+  ]
+}
